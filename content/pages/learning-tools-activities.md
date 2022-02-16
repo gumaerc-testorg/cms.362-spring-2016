@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Learning Tools & Activities
 uid: b9f93238-462a-733f-57c1-4b068a1a2ac6
 ---

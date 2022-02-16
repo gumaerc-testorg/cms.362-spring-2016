@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Presentations
 uid: eebdd8d5-19b7-d501-0c0f-7d7b5aed57b1
 ---
