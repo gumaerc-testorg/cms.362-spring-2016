@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar & Assignments
 parent_type: CourseSection
+parent_uid: 5de1f36e-ada1-0ab2-5e66-0767a63ad6bd
 resourcetype: Document
 title: CMS.362S16 Co-design Studio Intake Questionnaire
 uid: ae5ab651-7278-ef80-3324-e9c0f01b2783

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Calendar & Assignments
 parent_type: CourseSection
+parent_uid: 5de1f36e-ada1-0ab2-5e66-0767a63ad6bd
 resourcetype: Document
 title: CMS.362S16 Case Study Template
 uid: b549c57b-59ef-29fe-8fed-6441c641241d
