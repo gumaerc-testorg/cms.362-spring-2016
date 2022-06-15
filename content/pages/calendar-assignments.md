@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides a schedule of course topics, key dates, and a list
+  of assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Calendar & Assignments
 uid: 5de1f36e-ada1-0ab2-5e66-0767a63ad6bd
+video_metadata:
+  youtube_id: null
 ---
 
 Detailed Course Schedule
@@ -22,7 +26,7 @@ SES #
 MILESTONES
 {{< thclose >}}
 {{< thopen >}}
-ASSIGNENT FOR NEXT SESSION (IN ADDITION TO [READINGS]({{< baseurl >}}/pages/readings))
+ASSIGNENT FOR NEXT SESSION (IN ADDITION TO {{% resource_link a626e302-8c03-d4e8-79ec-d93f70934d36 "READINGS" %}})
 {{< thclose >}}
 {{< thopen >}}
 TEACHING TEAMS
@@ -50,7 +54,7 @@ Workshop: Course tools ([blog](http://codesign.mit.edu/), [Trello](https://trell
 First blog post to course website: Introduce yourself!
 {{< tdclose >}}
 {{< tdopen >}}
-Work with co-ops to suggest they complete [Intake Questionnaire (PDF)]({{< baseurl >}}/resources/mitcms_362s16_co-design), and share with project teams
+Work with co-ops to suggest they complete {{% resource_link ae5ab651-7278-ef80-3324-e9c0f01b2783 "Intake Questionnaire (PDF)" %}}, and share with project teams
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +76,7 @@ This week, potential project partners will join us to present the work they do. 
 
 Catch up on the readings, complete the intake questionnaire (optional). Share this with the project team before the site visit to inform the brainstorm session.
 
-Fill out [Partner Request Form (PDF)]({{< baseurl >}}/resources/mitcms_362s16_partnerrqst) (not until after the presentations, please!)
+Fill out {{% resource_link 19917b82-fbb9-16da-74d0-d39d32c17d9f "Partner Request Form (PDF)" %}} (not until after the presentations, please!)
 
 
 {{< tdclose >}}
@@ -117,7 +121,7 @@ Please post, 1 post per group, to the class blog. Include:
 
 {{< tdclose >}}
 {{< tdopen >}}
-Share [Project Working Agreement Template (PDF)]({{< baseurl >}}/resources/mitcms_362s16_projectwork) and reminder about due date
+Share {{% resource_link 0f3714df-b89d-83cd-0b71-b5e17a913868 "Project Working Agreement Template (PDF)" %}} and reminder about due date
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +264,7 @@ Workshop: Deeper Interviews with [Mary Gray](https://www.microsoft.com/en-us/res
 {{< tdopen >}}
 
 
-*   Create your first prototypes! See guidelines for [First Prototypes and Presentations (PDF)]({{< baseurl >}}/resources/mitcms_362s16_firstproto)
+*   Create your first prototypes! See guidelines for {{% resource_link a5246d41-5464-d682-a5a6-a38e6280143d "First Prototypes and Presentations (PDF)" %}}
 *   Get feedback from real world potential users; learn from that feedback to prove or disprove hypotheses in your canvas; incorporate that feedback into your next project iteration
 *   Blog post including your presentation materials
 
@@ -316,7 +320,7 @@ Evan will walk through landing pages, user acquisition, and analytics, then we'l
 
 
 *   Complete your next iteration, based on user feedback
-*   Begin working on your case study draft using the [case study template (PDF)]({{< baseurl >}}/resources/mitcms_362s16_casestudy)
+*   Begin working on your case study draft using the {{% resource_link b549c57b-59ef-29fe-8fed-6441c641241d "case study template (PDF)" %}}
 *   Blog post including your clickable mockups
 
 
@@ -343,7 +347,7 @@ Presentation: Presentation of progress (for example: Clickable mockups, revised 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Share [Final Presentation Guidelines]({{< baseurl >}}/pages/final-presentations)
+Share {{% resource_link eebdd8d5-19b7-d501-0c0f-7d7b5aed57b1 "Final Presentation Guidelines" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,7 +429,7 @@ Case study revision
 
 Overview of the co-op; talk through evolution of the product and canvas; assumptions and how they tested them; present the landing page / value prop, clickable mockup (at least), user acquisition metrics; next steps for the project
 
-[Final Project Presentation]({{< baseurl >}}/pages/final-presentations) (by the whole design team!).
+{{% resource_link eebdd8d5-19b7-d501-0c0f-7d7b5aed57b1 "Final Project Presentation" %}} (by the whole design team!).
 
 _In class: Course evaluations_
 

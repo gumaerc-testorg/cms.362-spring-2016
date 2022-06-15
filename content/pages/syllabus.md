@@ -1,9 +1,12 @@
 ---
 content_type: page
+description: This section contains details about course requirements and expectations.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 86a470e1-c190-af8f-197d-c7dd0a7b2567
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
