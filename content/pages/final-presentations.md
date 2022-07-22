@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section includes a description of final presentation requirements
+  and guidelines.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Final Presentations
 uid: eebdd8d5-19b7-d501-0c0f-7d7b5aed57b1
+video_metadata:
+  youtube_id: null
 ---
 
 Prepare a formal 20 minute presentation for the final class (plus 10 minutes for questions). You must use audiovisual materials for your presentation (e.g. slides, a video, etc.). Your presentation must include:

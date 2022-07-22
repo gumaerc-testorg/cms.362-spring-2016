@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section contains details about learning activities and the tools
+  used to complete course assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Learning Tools & Activities
 uid: b9f93238-462a-733f-57c1-4b068a1a2ac6
+video_metadata:
+  youtube_id: null
 ---
 
 In addition to their core project, participants in this course will engage with a series of texts, discuss them together, and share reflections on the course blog about the progress of their projects in the context of the history and theory of co-design. Process and final project material will also be remixed for a civic media co-design toolkit.
