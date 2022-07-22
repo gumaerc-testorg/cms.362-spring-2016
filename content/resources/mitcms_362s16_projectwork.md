@@ -5,6 +5,7 @@ file: /courses/cms-362-civic-media-codesign-studio-spring-2016/0f3714dfb89d83cd0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Calendar & Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource contains the information regarding project working agreement.
-

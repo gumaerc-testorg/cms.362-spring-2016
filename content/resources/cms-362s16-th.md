@@ -12,6 +12,7 @@ image_metadata:
   credit: Image courtesy of Alyce Santoro on flickr. License CC BY-NC-SA.
   image-alt: A black and white graphic that reads, "Hire ourselves! Worker-owned cooperatives."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-362s16-th.jpg
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Students in this course partnered with worker-owned cooperatives to develop innovative strategies for social transformation. Image courtesy of Alyce Santoro on flickr. License CC BY-NC-SA.
-
