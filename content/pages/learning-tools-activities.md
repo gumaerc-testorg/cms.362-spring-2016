@@ -36,8 +36,8 @@ Projects must have a clearly defined community partner that is a worker-owned co
 
 ### Tools
 
-*   [Course Blog](http://codesign.mit.edu/)
-*   [Etherpad](http://etherpad.org/)
-*   [Trello](https://trello.com/)
-*   [POPApp](https://popapp.in/)
-*   [LaunchPad Central](https://www.launchpadcentral.com)
+*   {{% resource_link "95ef546a-a6e7-4f13-abb4-d749e5d981d3" "Course Blog" %}}
+*   {{% resource_link "847f0606-f408-41b7-88b8-19e0f1228a07" "Etherpad" %}}
+*   {{% resource_link "e696ed95-ff69-4f46-af30-64a942bf61b9" "Trello" %}}
+*   {{% resource_link "96baba8e-06e5-439f-ac34-2fefbdc9957d" "POPApp" %}}
+*   {{% resource_link "09b7db3f-2730-4bc6-a944-385daee30dbb" "LaunchPad Central" %}}
