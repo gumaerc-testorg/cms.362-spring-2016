@@ -25,4 +25,4 @@ Prepare a formal 20 minute presentation for the final class (plus 10 minutes for
 *   Challenges you faced during the process and how you addressed them.
 *   Next steps: How the partner organization will continue to use and maintain this project.
 
-For examples of student projects from spring 2016, please see the [course blog](http://codesign.mit.edu/).
+For examples of student projects from spring 2016, please see the {{% resource_link "95ef546a-a6e7-4f13-abb4-d749e5d981d3" "course blog" %}}.

@@ -4,11 +4,13 @@ description: Students in this course partnered with worker-owned cooperatives to
   innovative strategies for social transformation. Image courtesy of Alyce Santoro
   on flickr. License CC BY-NC-SA.
 file: /courses/cms-362-civic-media-codesign-studio-spring-2016/74328a0c287c8e599b1432581f398210_cms-362s16-th.jpg
+file_size: 7728
 file_type: image/jpeg
 image_metadata:
   caption: Students in this course partnered with worker-owned cooperatives to develop
-    innovative strategies for social transformation. (Image courtesy of [Alyce Santoro](https://flic.kr/p/bWUKY5)
-    on flickr. License CC BY-NC-SA.)
+    innovative strategies for social transformation. (Image courtesy of {{% resource_link
+    "e6d8316c-c480-41fc-a2e9-50abe20678d3" "Alyce Santoro" %}} on flickr. License
+    CC BY-NC-SA.)
   credit: Image courtesy of Alyce Santoro on flickr. License CC BY-NC-SA.
   image-alt: A black and white graphic that reads, "Hire ourselves! Worker-owned cooperatives."
 learning_resource_types: []
