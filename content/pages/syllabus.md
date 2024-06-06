@@ -22,7 +22,7 @@ One subject in [Comparative Media Studies / Writing](./resolveuid/ecb0f9e16a968c
 Course Overview
 ---------------
 
-This project-based studio course focuses on collaborative design of civic media. In 2016, we'll partner with worker-owned cooperatives. There's growing interest in worker cooperatives as a powerful form of re-organizing the economy. Our aim is to build a stronger, more democratic, more just, and more sustainable economy! (For more info about worker cooperatives, see {{% resource_link "7cdb34c6-6f79-40a6-8543-c9a6fb65ccc5" "The United States Federation of Worker Cooperatives (USFWC)" %}}.
+This project-based studio course focuses on collaborative design of civic media. In 2016, we'll partner with worker-owned cooperatives. There's growing interest in worker cooperatives as a powerful form of re-organizing the economy. Our aim is to build a stronger, more democratic, more just, and more sustainable economy! (For more info about worker cooperatives, see [The United States Federation of Worker Cooperatives (USFWC)](https://usworker.coop/home/).
 
 The Civic Media Co-design Studio provides an opportunity for students interested in working with community-based organizations to develop civic media projects that connect to grounded strategies for social transformation. We will build teams with diverse skillsets, including (for example) developers, designers, media-makers, researchers, members of existing worker co-ops, and community organizers, and support the teams through an iterative lean startup product development process. We provide design teams with template working agreements, to ensure that the products will be free and open source and that they'll be run by triple bottom line cooperatives, and connect successful projects to the support networks they'll need to grow and thrive. The studio is also a space for shared inquiry into the theory, history, best practices, and critiques of various approaches to community inclusion in iterative stages of project ideation, design, implementation, testing, and evaluation.
 
@@ -30,10 +30,10 @@ Civic Media Co-design Studio approaches communities not as (solely) consumers, t
 
 ### Co-op Co-design Partners in 2016
 
-*   {{% resource_link "5a7dafb1-74e9-4f61-aac4-ca1dd03cf420" "Vida Verde" %}}. The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
-*   {{% resource_link "9d19ab6c-5385-4d21-ac52-7232d48542b4" "Placetailor" %}}. A Boston based design, build, develop, co-op founded in 2008.
-*   {{% resource_link "b931c322-1fb1-45ec-8d67-361813b0f0d5" "CERO Cooperative" %}}. CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
-*   {{% resource_link "eefae55a-a3f3-4958-814d-434a09ec226b" "Restoring Roots Cooperative" %}}. Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
+*   [Vida Verde](http://www.verdeamarelo.org/vidaverde/index.html). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
+*   [Placetailor](http://www.placetailor.com/). A Boston based design, build, develop, co-op founded in 2008.
+*   [CERO Cooperative](http://www.cero.coop/). CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
+*   [Restoring Roots Cooperative](http://restoringroots.net/). Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
 
 Course Goals
 ------------
@@ -105,4 +105,4 @@ Grading for this course is organized as follows:
 A Note About Blogging and Anonymity
 -----------------------------------
 
-All participants in the course are expected to post regular blog entries on a publicly accessible site ({{% resource_link "95ef546a-a6e7-4f13-abb4-d749e5d981d3" "the course blog" %}}). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
+All participants in the course are expected to post regular blog entries on a publicly accessible site ([the course blog](http://codesign.mit.edu/)). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
