@@ -1,6 +1,7 @@
 ---
 content_type: page
 description: This section contains details about course requirements and expectations.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -8,19 +9,15 @@ uid: 86a470e1-c190-af8f-197d-c7dd0a7b2567
 video_metadata:
   youtube_id: null
 ---
-
-Course Meeting Times
---------------------
+## Course Meeting Times
 
 Sessions: 1 session / week, 3 hours / session
 
-Prerequisites
--------------
+## Prerequisites
 
-One subject in [Comparative Media Studies / Writing](./resolveuid/ecb0f9e16a968cb037f627ab03a7b68d) or [Media Arts and Sciences](./resolveuid/a563bc204ee7e82ea8b85631e6dd8e16), or permission of the instructors.
+One subject in [Comparative Media Studies / Writing](https://ocw-studio.odl.mit.edu/sites/cms-362-civic-media-codesign-studio-spring-2016/type/page/edit/86a470e1-c190-af8f-197d-c7dd0a7b2567/resolveuid/ecb0f9e16a968cb037f627ab03a7b68d) or [Media Arts and Sciences](https://ocw-studio.odl.mit.edu/sites/cms-362-civic-media-codesign-studio-spring-2016/type/page/edit/86a470e1-c190-af8f-197d-c7dd0a7b2567/resolveuid/a563bc204ee7e82ea8b85631e6dd8e16), or permission of the instructors.
 
-Course Overview
----------------
+## Course Overview
 
 This project-based studio course focuses on collaborative design of civic media. In 2016, we'll partner with worker-owned cooperatives. There's growing interest in worker cooperatives as a powerful form of re-organizing the economy. Our aim is to build a stronger, more democratic, more just, and more sustainable economy! (For more info about worker cooperatives, see [The United States Federation of Worker Cooperatives (USFWC)](https://usworker.coop/home/).
 
@@ -30,79 +27,50 @@ Civic Media Co-design Studio approaches communities not as (solely) consumers, t
 
 ### Co-op Co-design Partners in 2016
 
-*   [Vida Verde](http://www.verdeamarelo.org/vidaverde/index.html). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
-*   [Placetailor](http://www.placetailor.com/). A Boston based design, build, develop, co-op founded in 2008.
-*   [CERO Cooperative](http://www.cero.coop/). CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
-*   [Restoring Roots Cooperative](http://restoringroots.net/). Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
+- [Vida Verde](http://www.verdeamarelo.org/vidaverde/index.html). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
+- Placetailor. A Boston based design, build, develop, co-op founded in 2008.
+- [CERO Cooperative](http://www.cero.coop/). CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
+- Restoring Roots Cooperative. Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
 
-Course Goals
-------------
+## Course Goals
 
 Students who take this course will be able to:
 
-*   Understand and articulate the key principles of co-design
-*   Demonstrate knowledge of the history, actors, trends, and critiques of co-design methods
-*   Apply theoretical and practical tools of co-design in a real-world partnership with a community-based organization
-*   Effectively use free / libre and open source project management tools to facilitate collaborative work in diverse teams
-*   Make concrete contributions to the development of a real-world civic media project that is grounded in the needs of a community partner
+- Understand and articulate the key principles of co-design
+- Demonstrate knowledge of the history, actors, trends, and critiques of co-design methods
+- Apply theoretical and practical tools of co-design in a real-world partnership with a community-based organization
+- Effectively use free / libre and open source project management tools to facilitate collaborative work in diverse teams
+- Make concrete contributions to the development of a real-world civic media project that is grounded in the needs of a community partner
 
-Grading
--------
+## Grading
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 ACTIVITIES
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 PERCENTAGES
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Texts and discussion
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 10%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Process documentation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 70%
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Final project
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 20%
-{{< tdclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{< trclose >}}
-
-{{< tableclose >}}
-
-Student Assignments & Grading
------------------------------
+## Student Assignments & Grading
 
 Grading for this course is organized as follows:
 
-*   **10% texts & discussion:** You are responsible for engaging with all texts for the class, and coming to all course meetings prepared to discuss the week's texts.
-*   **70% process documentation:** Expect to spend time (approx. 1-2 hours) each week on a written reflection / documentation of process that your group will post to the course blog. Reflections should focus on your group's experience working on the co-design project, and may also tie in the week's theme and assigned texts. Process documentation may use any media you choose (text, photo, video, audio, drawings, maps, etc.) to document the progress of the collaborative design project. Blog posts must be up by no later than noon prior to each session to receive full credit.
-*   **20% final project:** Presentation & write-up (case study).
-*   Evaluations by the community partner will also be taken into account.
+- **10% texts & discussion:** You are responsible for engaging with all texts for the class, and coming to all course meetings prepared to discuss the week's texts.
+- **70% process documentation:** Expect to spend time (approx. 1-2 hours) each week on a written reflection / documentation of process that your group will post to the course blog. Reflections should focus on your group's experience working on the co-design project, and may also tie in the week's theme and assigned texts. Process documentation may use any media you choose (text, photo, video, audio, drawings, maps, etc.) to document the progress of the collaborative design project. Blog posts must be up by no later than noon prior to each session to receive full credit.
+- **20% final project:** Presentation & write-up (case study).
+- Evaluations by the community partner will also be taken into account.
 
-A Note About Blogging and Anonymity
------------------------------------
+## A Note About Blogging and Anonymity
 
-All participants in the course are expected to post regular blog entries on a publicly accessible site ([the course blog](http://codesign.mit.edu/)). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.
+All participants in the course are expected to post regular blog entries on a publicly accessible site (the course blog). You may, however, choose to remain anonymous (actually, pseudonymous) by publishing under a pseudonym not easily linkable to your real name.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding co-design studio intake
   questionnaire.
-file: /courses/cms-362-civic-media-codesign-studio-spring-2016/ae5ab6517278ef803324e9c0f01b2783_MITCMS_362S16_Co-Design.pdf
+file: /ol-ocw-studio-app/courses/cms-362-civic-media-codesign-studio-spring-2016/ae5ab6517278ef803324e9c0f01b2783_MITCMS_362S16_Co-Design.pdf
 file_size: 640937
 file_type: application/pdf
 learning_resource_types:
