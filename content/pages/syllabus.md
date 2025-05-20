@@ -27,7 +27,7 @@ Civic Media Co-design Studio approaches communities not as (solely) consumers, t
 
 ### Co-op Co-design Partners in 2016
 
-- [Vida Verde](http://www.verdeamarelo.org/vidaverde/index.html). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
+- [Vida Verde](https://verdeamarelo.org/vidaverde/). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
 - Placetailor. A Boston based design, build, develop, co-op founded in 2008.
 - [CERO Cooperative](http://www.cero.coop/). CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
 - Restoring Roots Cooperative. Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
