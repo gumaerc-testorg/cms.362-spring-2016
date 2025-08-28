@@ -113,7 +113,7 @@ Human Centered Design & Paper Prototyping Workshop
 
 Skim: IDEO. [The Field Guide to Human-Centered Design](https://www.designkit.org/resources/1.html) (free to download as PDF, but you'll need to create an account)
 
-Lee, Panthea. "[Design Research: What Is It and Why Do It?](http://reboot.org/2012/02/19/design-research-what-is-it-and-why-do-it/)" *Reboot*. February 19, 2012.
+Lee, Panthea. "Design Research: What Is It and Why Do It?" *Reboot*. February 19, 2012.
 
 ### Suggested
 
