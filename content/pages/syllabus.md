@@ -15,11 +15,11 @@ Sessions: 1 session / week, 3 hours / session
 
 ## Prerequisites
 
-One subject in [Comparative Media Studies / Writing](https://ocw-studio.odl.mit.edu/sites/cms-362-civic-media-codesign-studio-spring-2016/type/page/edit/86a470e1-c190-af8f-197d-c7dd0a7b2567/resolveuid/ecb0f9e16a968cb037f627ab03a7b68d) or [Media Arts and Sciences](https://ocw-studio.odl.mit.edu/sites/cms-362-civic-media-codesign-studio-spring-2016/type/page/edit/86a470e1-c190-af8f-197d-c7dd0a7b2567/resolveuid/a563bc204ee7e82ea8b85631e6dd8e16), or permission of the instructors.
+One subject in {{% resource_link "0d126562-bc97-4df6-aadd-da78fa605a9e" "Comparative Media Studies / Writing" %}} or {{% resource_link "29d38509-cd7a-44bc-b3f6-4c23ca011bbe" "Media Arts and Sciences" %}}, or permission of the instructors.
 
 ## Course Overview
 
-This project-based studio course focuses on collaborative design of civic media. In 2016, we'll partner with worker-owned cooperatives. There's growing interest in worker cooperatives as a powerful form of re-organizing the economy. Our aim is to build a stronger, more democratic, more just, and more sustainable economy! (For more info about worker cooperatives, see [The United States Federation of Worker Cooperatives (USFWC)](https://usworker.coop/home/).
+This project-based studio course focuses on collaborative design of civic media. In 2016, we'll partner with worker-owned cooperatives. There's growing interest in worker cooperatives as a powerful form of re-organizing the economy. Our aim is to build a stronger, more democratic, more just, and more sustainable economy! (For more info about worker cooperatives, see {{% resource_link "5dd3dd09-d25c-4853-bea3-5d6ea4b260c0" "The United States Federation of Worker Cooperatives (USFWC)" %}}.
 
 The Civic Media Co-design Studio provides an opportunity for students interested in working with community-based organizations to develop civic media projects that connect to grounded strategies for social transformation. We will build teams with diverse skillsets, including (for example) developers, designers, media-makers, researchers, members of existing worker co-ops, and community organizers, and support the teams through an iterative lean startup product development process. We provide design teams with template working agreements, to ensure that the products will be free and open source and that they'll be run by triple bottom line cooperatives, and connect successful projects to the support networks they'll need to grow and thrive. The studio is also a space for shared inquiry into the theory, history, best practices, and critiques of various approaches to community inclusion in iterative stages of project ideation, design, implementation, testing, and evaluation.
 
@@ -27,9 +27,9 @@ Civic Media Co-design Studio approaches communities not as (solely) consumers, t
 
 ### Co-op Co-design Partners in 2016
 
-- [Vida Verde](https://verdeamarelo.org/vidaverde/). The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
+- {{% resource_link "31d3ca80-5ed7-4bae-b560-c4b3e03ff05a" "Vida Verde" %}}. The mission of the Vida Verde Women's Cooperative is to support Brazilian housecleaners in their professions while creating community and promoting healthy and environmentally friendly methods.
 - Placetailor. A Boston based design, build, develop, co-op founded in 2008.
-- [CERO Cooperative](http://www.cero.coop/). CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
+- {{% resource_link "63518460-6bd1-40e0-a285-a54d2277206e" "CERO Cooperative" %}}. CERO Cooperative is an award-winning commercial composting company based out of Dorchester, MA. CERO transports compost to local farms where it is returned to the soil and then used to support the local agricultural economy.
 - Restoring Roots Cooperative. Restoring Roots Cooperative creates beautiful, peaceful, multi-purpose, food producing landscapes from residential yards and small businesses to urban farms and public libraries.
 
 ## Course Goals
