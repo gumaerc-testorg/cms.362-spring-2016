@@ -23,17 +23,17 @@ READINGS
 Course Introduction & Course Tools Workshop
 {{< tdclose >}}{{< tdopen >}}
 
-Kuhn, Sara, and Terry Winograd. "[Participatory Design](http://hci.stanford.edu/publications/bds/14-p-partic.html)." In *Bringing Design to Software*. ACM Press, 1996. ISBN: 9780201854916.
+Kuhn, Sara, and Terry Winograd. "{{% resource_link "39625794-95cb-4650-936c-ad6bfa3ea548" "Participatory Design" %}}." In *Bringing Design to Software*. ACM Press, 1996. ISBN: 9780201854916.
 
-Scholz, Trebor. "[Platform Cooperativism vs. the Sharing Economy](http://tinyurl.com/oj8rna2)." December 5, 2014.
+Scholz, Trebor. "{{% resource_link "7fccecbe-840f-4c3e-a8f1-2c5605f0a930" "Platform Cooperativism vs. the Sharing Economy" %}}." December 5, 2014.
 
-———. "[Think Outside the Boss](http://www.publicseminar.org/2015/04/think-outside-the-boss/#.VUoVZEuhIds)." *Public Seminar*. April 5, 2015.
+———. "{{% resource_link "1f7430d4-f371-4aae-a62b-7bd40af33b40" "Think Outside the Boss" %}}." *Public Seminar*. April 5, 2015.
 
-Orsi, Janelle. "[The Sharing Economy Just Got Real](http://www.shareable.net/blog/the-sharing-economy-just-got-real)." *Shareable*, September 2013.
+Orsi, Janelle. "{{% resource_link "cc25822c-3fd7-401d-a5f0-d5e6f1aea1a3" "The Sharing Economy Just Got Real" %}}." *Shareable*, September 2013.
 
 ### Suggested
 
-Skim this: Slokum, Nikki. ["Participatory Methods Toolkit: A Practitioner's Manual." (PDF - 1.8MB)](http://archive.unu.edu/hq/library/Collection/PDF_files/CRIS/PMT.pdf) King Baudouin Foundation, 2003.
+Skim this: Slokum, Nikki. {{% resource_link "d8d50114-f552-406d-aa63-ef43400f627e" "\"Participatory Methods Toolkit: A Practitioner's Manual.\" (PDF - 1.8MB)" %}} King Baudouin Foundation, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -41,9 +41,9 @@ Skim this: Slokum, Nikki. ["Participatory Methods Toolkit: A Practitioner's Manu
 Project Partners
 {{< tdclose >}}{{< tdopen >}}
 
-Morgan, David. "[How Worker Co-ops Are Moving Beyond Capitalism](http://www.occupy.com/article/how-worker-co-ops-are-moving-beyond-capitalism)." Occupy.com. April 11, 2015.
+Morgan, David. "{{% resource_link "8c704677-1b72-4b95-92c9-cc521a6999d1" "How Worker Co-ops Are Moving Beyond Capitalism" %}}." Occupy.com. April 11, 2015.
 
-Schneider, Nathan. "[Owning Is the New Sharing](http://www.shareable.net/blog/owning-is-the-new-sharing)." *Shareable*, December 2014.
+Schneider, Nathan. "{{% resource_link "572b3b65-cf28-48bd-9d54-18ada29286ff" "Owning Is the New Sharing" %}}." *Shareable*, December 2014.
 
 Schneider, Nathan, Janelle Oris, et al. "5 Ways to Take Back Tech," *The Nation*, May 27, 2015.
 
@@ -51,7 +51,7 @@ Blank, Steve, Bob Dorf. Chapter 1 in *The Startup Owner's Manual: The Step-by-St
 
 ### Suggested
 
-Stearn, Michelle. "['Coopify': A New Platform Bringing Broad-based Ownership to Your Smartphone](http://staging.community-wealth.org/content/coopify-new-platform-bringing-broad-based-ownership-your-smartphone)." Community-Wealth.org. January 11, 2016.
+Stearn, Michelle. "{{% resource_link "37b5abd2-3852-4587-b1a3-fd9ac4a47310" "'Coopify': A New Platform Bringing Broad-based Ownership to Your Smartphone" %}}." Community-Wealth.org. January 11, 2016.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -59,21 +59,21 @@ Stearn, Michelle. "['Coopify': A New Platform Bringing Broad-based Ownership to 
 Design Histories, MVP (Minimum Viable Product), & Working Agreements
 {{< tdclose >}}{{< tdopen >}}
 
-DiSalvo, Carl. ["Design, Democracy and Agonistic Pluralism." (PDF)](http://www.drs2010.umontreal.ca/data/PDF/031.pdf)
+DiSalvo, Carl. {{% resource_link "be511c16-5ced-4d42-aa8b-e9203d15bdb6" "\"Design, Democracy and Agonistic Pluralism.\" (PDF)" %}}
 
-Irani, Lilly, Janet Vertesi, et al. "[Postcolonial Computing: A Lens on Design and Development (PDF)](http://www.dourish.com/publications/2010/chi2010-postcolonial.pdf)." ACM, pp. 1311–20.
+Irani, Lilly, Janet Vertesi, et al. "{{% resource_link "306fd3cf-9735-4879-823e-7dacbf6a16b4" "Postcolonial Computing: A Lens on Design and Development (PDF)" %}}." ACM, pp. 1311–20.
 
-Rhea, Preston. "[Collaborative Design Strategies for Community Technology](https://www.newamerica.org/oti/blog/collaborative-design-strategies-for-community-technology/)." New America Foundation, November 19, 2010.
+Rhea, Preston. "{{% resource_link "125cf51b-68d6-489f-ad9c-a6c6094295b5" "Collaborative Design Strategies for Community Technology" %}}." New America Foundation, November 19, 2010.
 
-Blagojevic, Vladimir. "[The Ultimate Guide to Minimum Viable Products](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/8/)."
+Blagojevic, Vladimir. "{{% resource_link "7f66aa19-9baf-4736-bed5-7f0f97f459bb" "The Ultimate Guide to Minimum Viable Products" %}}."
 
 Blank, Steve, and Bob Dorf. Chapters 2 & 3 in *The Startup Owner's Manual: The Step-by-Step Guide for Building a Great Company*. K & S Ranch, 2012. ISBN: 9780984999309.
 
 ### Suggested
 
-Kapor, Mitchell. "[A Software Design Manifesto](http://hci.stanford.edu/publications/bds/1-kapor.html)." In *Bringing Design to Software*. ACM Press, 1996. ISBN: 9780201854916.
+Kapor, Mitchell. "{{% resource_link "e93156d0-17b2-499e-8a58-212400a34782" "A Software Design Manifesto" %}}." In *Bringing Design to Software*. ACM Press, 1996. ISBN: 9780201854916.
 
-Norman, Donald A. "[Human-Centered Design Considered Harmful](http://www.jnd.org/dn.mss/human-centered_design_considered_harmful.html)." (2005): 14–19.
+Norman, Donald A. "{{% resource_link "8adc3722-bf70-4c79-b512-729eae191510" "Human-Centered Design Considered Harmful" %}}." (2005): 14–19.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -81,19 +81,19 @@ Norman, Donald A. "[Human-Centered Design Considered Harmful](http://www.jnd.org
 Cooperatives & Business Model Canvas Workshop
 {{< tdclose >}}{{< tdopen >}}
 
-Nembhard, Jessica G., Michael Johnson, et al. "[Worker Cooperative Development Models and Approaches: A Brief Overview](http://geo.coop/node/627)." *Grassroots Economic Organizing (GEO) Newsletter* 2, no. 8 (2011).
+Nembhard, Jessica G., Michael Johnson, et al. "{{% resource_link "3890c8c9-6746-4c36-811f-f02cfc6905ba" "Worker Cooperative Development Models and Approaches: A Brief Overview" %}}." *Grassroots Economic Organizing (GEO) Newsletter* 2, no. 8 (2011).
 
-Palmer, Tim. [U.S. Worker Cooperatives: A State of the Sector (PDF)](http://institute.coop/sites/default/files/resources/State_of_the_sector_0.pdf). Democracy at Work Institute. 2015.
+Palmer, Tim. {{% resource_link "c1053db4-8c8c-4a80-951b-d76b962e3306" "U.S. Worker Cooperatives: A State of the Sector (PDF)" %}}. Democracy at Work Institute. 2015.
 
-Osterwalder, Alexander, and Yves Pigneur. ["Business Model Generation." (PDF - 5.3MB)](http://www.businessmodelgeneration.com/downloads/businessmodelgeneration_preview.pdf) pp. 14–49.
+Osterwalder, Alexander, and Yves Pigneur. {{% resource_link "e9cd6c40-45bb-4c56-9477-639524ea9bed" "\"Business Model Generation.\" (PDF - 5.3MB)" %}} pp. 14–49.
 
 ### Suggested
 
-Watch: [Shift Change](http://shiftchange.org/) (2012)
+Watch: {{% resource_link "c13c6dd6-12ba-4016-ad9d-a832e197b700" "Shift Change" %}} (2012)
 
-Sytsma, Michael. "[Capital Continuum: A Roadmap to Business Financing](https://grbj.com/opinion/capital-continuum-a-roadmap-to-business-financing/)." *Grand Rapids Business Journal*. March 15, 2003.
+Sytsma, Michael. "{{% resource_link "782ee1dc-085d-49db-b1b4-3f8f8d924db8" "Capital Continuum: A Roadmap to Business Financing" %}}." *Grand Rapids Business Journal*. March 15, 2003.
 
-Andrews, A. Michael. ["Appendix 2: Debt and Equity Instruments." (PDF - 3.3MB)](https://www.researchgate.net/publication/274384036_Survey_of_Cooperative_Capital) *Survey of Co-operative Capital*. International Co-operative Alliance.
+Andrews, A. Michael. {{% resource_link "280855e7-6121-4717-b8e4-67ac9afab451" "\"Appendix 2: Debt and Equity Instruments.\" (PDF - 3.3MB)" %}} *Survey of Co-operative Capital*. International Co-operative Alliance.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
@@ -101,9 +101,9 @@ Andrews, A. Michael. ["Appendix 2: Debt and Equity Instruments." (PDF - 3.3MB)](
 Present Canvas, Discuss Risks & Customer Development Workshop
 {{< tdclose >}}{{< tdopen >}}
 
-Gothelf, Jeff, and Josh Seiden. *Lean UX: Applying Lean Principles to Improve User Experience*. O'Reilly Media, 2013. ISBN: 9781449311650. \[Preview with [Google Books](http://books.google.com/books?id=7TDQ4WZ1BHoC&pg=PAfrontcover)\]
+Gothelf, Jeff, and Josh Seiden. *Lean UX: Applying Lean Principles to Improve User Experience*. O'Reilly Media, 2013. ISBN: 9781449311650. \[Preview with {{% resource_link "fb75e7d5-3ff3-477e-8e05-28cdcb4e3894" "Google Books" %}}\]
 
-Constable, Giff. ["Talking to Humans." (PDF - 2.1MB)](https://s3.amazonaws.com/TalkingtoHumans/Talking+to+Humans.pdf)
+Constable, Giff. {{% resource_link "c718d478-efea-4da9-b94d-89856296e856" "\"Talking to Humans.\" (PDF - 2.1MB)" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -111,17 +111,17 @@ Constable, Giff. ["Talking to Humans." (PDF - 2.1MB)](https://s3.amazonaws.com/T
 Human Centered Design & Paper Prototyping Workshop
 {{< tdclose >}}{{< tdopen >}}
 
-Skim: IDEO. [The Field Guide to Human-Centered Design](https://www.designkit.org/resources/1.html) (free to download as PDF, but you'll need to create an account)
+Skim: IDEO. {{% resource_link "ef76cecd-716b-432a-9e0c-510c5ad82982" "The Field Guide to Human-Centered Design" %}} (free to download as PDF, but you'll need to create an account)
 
 Lee, Panthea. "Design Research: What Is It and Why Do It?" *Reboot*. February 19, 2012.
 
 ### Suggested
 
-Chipchase, Jan, and Younghee Jung. "[Nokia Open Studios](http://www.slideshare.net/janchip/nokia-open-studios-presentation)."
+Chipchase, Jan, and Younghee Jung. "{{% resource_link "01facead-d13a-4e42-86fc-ac375d57f185" "Nokia Open Studios" %}}."
 
-Browse: Jan Chipchase on [Research Methods](http://janchipchase.com/themes/research-methods/)
+Browse: Jan Chipchase on {{% resource_link "cb024d37-4345-4ac2-90e8-887fe65bc8b1" "Research Methods" %}}
 
-Browse: UNICEF, [Principles for Digital Development](https://digitalprinciples.org/)
+Browse: UNICEF, {{% resource_link "fd17b71f-dcad-4be1-9205-8f2609a10bcf" "Principles for Digital Development" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -129,9 +129,9 @@ Browse: UNICEF, [Principles for Digital Development](https://digitalprinciples.o
 Appropriation, Innovation & Midpoint Evaluations
 {{< tdclose >}}{{< tdopen >}}
 
-Eglash, Ron. ["Appropriating Technology: An Introduction." (PDF)](http://appropriatingtechnology.org/?q=node/155) In *Appropriating Technology: Vernacular Science and Social Power*. Unniversity of Minnesota Press, 2004, pp. vii–xxi. ISBN: 9780816634279. \[Preview with [Google Books](http://books.google.com/books?id=Q7dgWYaDHTUC&pg=PAfrontcover)\]
+Eglash, Ron. {{% resource_link "225a9f22-1216-4d53-9661-c02302032270" "\"Appropriating Technology: An Introduction.\" (PDF)" %}} In *Appropriating Technology: Vernacular Science and Social Power*. Unniversity of Minnesota Press, 2004, pp. vii–xxi. ISBN: 9780816634279. \[Preview with {{% resource_link "29069717-08ef-45fd-8234-6ff8c4c0407f" "Google Books" %}}\]
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262002745) Von Hippel, Eric. "Application: Toolkits for User Innovation and Custom Design." In *Democratizing Innovation*. MIT Press, 2005. ISBN: 9780262002745.
+{{% resource_link "ef19e92c-1455-45be-a26d-680506e889ab" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Von Hippel, Eric. "Application: Toolkits for User Innovation and Custom Design." In *Democratizing Innovation*. MIT Press, 2005. ISBN: 9780262002745.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -139,13 +139,13 @@ Eglash, Ron. ["Appropriating Technology: An Introduction." (PDF)](http://appropr
 DiscoTechs, Design Jams & Hackathons
 {{< tdclose >}}{{< tdopen >}}
 
-Briggs, Charles. Chapters 1, 3, 5, and 6 in *Learning How to Ask: A Sociolinguistic Appraisal of the Role of the Interview in Social Science Research (Studies in the Social and Cultural Foundations of Language)*. Cambridge University Press, 1986. ISBN: 9780521311137. \[Preview with [Google Books](http://books.google.com/books?id=HDbsF4_aeiEC&pg=PAfrontcover)\]
+Briggs, Charles. Chapters 1, 3, 5, and 6 in *Learning How to Ask: A Sociolinguistic Appraisal of the Role of the Interview in Social Science Research (Studies in the Social and Cultural Foundations of Language)*. Cambridge University Press, 1986. ISBN: 9780521311137. \[Preview with {{% resource_link "d2759ef0-4682-416b-94d8-51213c1a4ea4" "Google Books" %}}\]
 
-[Discotech Zine](http://detroitdjc.org/?p=468). Detroit Digital Justice Coalition. July 1, 2012.
+{{% resource_link "1496c93e-0e79-4ff5-ad6b-c88dd2956d07" "Discotech Zine" %}}. Detroit Digital Justice Coalition. July 1, 2012.
 
-Maxigas. "[Hacklabs and Hackerspaces – Tracing Two Genealogies](http://peerproduction.net/issues/issue-2/peer-reviewed-papers/hacklabs-and-hackerspaces/)." *Journal of Peer Production*, no. 2 (Bio / Hardware Hacking).
+Maxigas. "{{% resource_link "1bef81a8-c093-419b-975e-cc9f5160f300" "Hacklabs and Hackerspaces – Tracing Two Genealogies" %}}." *Journal of Peer Production*, no. 2 (Bio / Hardware Hacking).
 
-DeTar, Charlie. "[Hackathons Don't Solve Problems](https://civic.mit.edu/blog/cfd/hackathons-dont-solve-problems)." MIT Center for Civic Media. May 16, 2013.
+DeTar, Charlie. "{{% resource_link "a7bb56ea-783f-4afe-8838-2855b2dc9630" "Hackathons Don't Solve Problems" %}}." MIT Center for Civic Media. May 16, 2013.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -170,7 +170,7 @@ No assigned readings
 {{< tdclose >}}{{< tdopen >}}
 Looking forward with Participatory Economics & Project Session
 {{< tdclose >}}{{< tdopen >}}
-Albert, Michael. "[Participatory Economics Part 1: Origins, Heritage, and Substance](https://zcomm.org/znetarticle/participatory-economics-part-1-origins-heritage-and-substance/)." *Znet*, October 10, 2015.
+Albert, Michael. "{{% resource_link "d41f7582-58ca-4309-9b3b-6dd19872c6b6" "Participatory Economics Part 1: Origins, Heritage, and Substance" %}}." *Znet*, October 10, 2015.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
